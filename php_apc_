@@ -113,7 +113,7 @@ graph_category php-apc
 purge_rate.label Optcode Cache
 purge_rate.draw LINE2
 purge_rate.min 0
-purge_rate.warning 10
+purge_rate.warning 80
 user_purge_rate.label User Cache
 user_purge_rate.draw LINE2
 user_purge_rate.min 0
